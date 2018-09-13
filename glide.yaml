@@ -1,3 +1,4 @@
-package: paradigm-vm
+package: paradigm-fn2
 homepage: https://github.com/paradigm-network/paradigm-fn2
-import: []
+import:
+- package: github.com/urfave/cli
