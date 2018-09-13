@@ -1,0 +1,4 @@
+package: paradigm-fn2
+homepage: https://github.com/paradigm-network/paradigm-fn2
+import:
+- package: github.com/urfave/cli
